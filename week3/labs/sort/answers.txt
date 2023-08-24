@@ -1,0 +1,8 @@
+sort1 uses: bubble sort
+How do you know?: Because it executes the slowest on larger data sets
+
+sort2 uses: merge sort
+How do you know?: Because it executes the fastest on larger data sets
+
+sort3 uses: selection sort
+How do you know?: Because it executes slower that sort2 but it perform better than sort1 on larger data sets
