@@ -2,6 +2,12 @@
   "files.associations": {
     "*.ejs": "html",
     "__locale": "c",
-    "cstring": "c"
+    "cstring": "c",
+    "cstdlib": "c",
+    "locale": "c",
+    "ostream": "c",
+    "new": "c",
+    "stdlib.h": "c",
+    "helpers.h": "c"
   }
 }
